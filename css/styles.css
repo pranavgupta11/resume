@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Satisfy', cursive;
+  color: #11999E;
+  font-size: 2.5em;
+}
+
+h3 {
+  font-family: 'Satisfy', cursive;
+    font-size: 2.5em;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+hr {
+  background-color: #EAF6F6;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 6px;
+  height: 0;
+  width: 6%;
+}
+a {
+  color: red;
+}
+.heading {
+  margin-top: 0;
+  /*font-family: 'Petit Formal Script', cursive;*/
+  font-family: 'Molle', cursive;
+  color: #66BFBF;
+  line-height: 2em;
+}
+.heading1 {
+  font-family: 'Marck Script', cursive;
+  color: white;
+}
+
+.flaticon {
+  height: 100px;
+  width: 120px;
+  padding: 10px;
+}
+
+#profile-pic {
+  height: 200px;
+  width: 150px;
+}
+
+.bcloud {
+  position: absolute;
+}
+
+.tcloud {
+  position: relative;
+  left: 250px;
+  top: 20px;
+}
+
+.top-container {
+/*background-color: #E4F9F5;*/
+background-color: #162447;
+  /*font-family: 'Sacramento', cursive;*/
+  font-family: 'Marck Script', cursive;
+  font-size: 38px;
+  font-weight: normal;
+}
+.middle-container{
+  background-color: #ddf3f5;
+}
+.bottom-container{
+  background-color: #ddf3f5;
+}
+.footer-link {
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+}
+
+.rate-us {
+  height: 75px;
+  width: 60px;
+  margin: 10px;
+}
+
+th {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+}
+
+.Education tr:nth-child(odd) {
+  background-color: #f4f4f4;
+}
+
+.Education {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Education tr:hover {
+  background-color: #ddd;
+}
+
+.Education th {
+  padding: 0.2em;
+  text-align: center;
+  background-color: #3ECBC4;
+  color: black;
+  font-size: 2em;
+  font-family: 'Satisfy', cursive;
+}
+
+.Education td {
+  padding: 0.75em;
+  text-align: left;
+  font-family: 'Playfair Display', serif;
+}
